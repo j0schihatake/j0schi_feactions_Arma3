@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class joschi_ifa3_ger_fraction {
-        displayName = "Р™РћРЁР IFA3 РђСЂРјРёСЏ РіРµСЂРјР°РЅРёРё";
+        displayName = "J0CHII IFA3 German";
         side = 1;
         flag = "\A3\ui_f\data\map\markers\flags\Germany_ca.paa";
         icon = "\A3\ui_f\data\map\markers\flags\Germany_ca.paa";
@@ -18,7 +18,7 @@ class CfgGroups {
     class WEST {
 
         class joschi_ifa3_ger_fraction {
-            name = "Р™РћРЁР IFA3 РђСЂРјРёСЏ РіРµСЂРјР°РЅРёРё";
+            name = "J0CHII IFA3 German";
 
             class Infantry {
                 name = "Infantry";
@@ -141,7 +141,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РњРµРґРёРє";
+        displayName = "Medic";
         side = 1;
         faction = "joschi_ifa3_ger_fraction";
 
@@ -165,7 +165,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РЁС‚СѓСЂРјРѕРІРёРє";
+        displayName = "Assault";
         side = 1;
         faction = "joschi_ifa3_ger_fraction";
 
@@ -189,7 +189,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РЎРЅР°Р№РїРµСЂ";
+        displayName = "Sniper";
         side = 1;
         faction = "joschi_ifa3_ger_fraction";
 
@@ -213,7 +213,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РџСѓР»РµРјРµС‚С‡РёРє";
+        displayName = "Gunner";
         side = 1;
         faction = "joschi_ifa3_ger_fraction";
 
@@ -237,7 +237,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РџРў РЎС‚СЂРµР»РѕРє";
+        displayName = "Assault PT";
         side = 1;
         faction = "joschi_ifa3_ger_fraction";
 
@@ -256,5 +256,4 @@ class CfgVehicles {
 
         backpack = "B_LIB_GER_MedicBackpack";
     };
-
 };

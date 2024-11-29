@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class joschi_ifa3_rus_fraction {
-        displayName = "Р™РћРЁР IFA3 РљСЂР°СЃРЅР°СЏ Р°СЂРјРёСЏ";
+        displayName = "J0SCHI IFA3 SSSR ";
         side = 0;
         flag = "\a3\UI_F_Enoch\Data\CfgMarkers\Russia_CA.paa";
         icon = "\a3\UI_F_Enoch\Data\CfgMarkers\Russia_CA.paa";
@@ -18,7 +18,7 @@ class CfgGroups {
     class EAST {
 
         class joschi_ifa3_rus_fraction {
-            name = "Р™РћРЁР IFA3 РљСЂР°СЃРЅР°СЏ Р°СЂРјРёСЏ";
+            name = "J0SCHI IFA3 SSSR ";
 
             class Infantry {
                 name = "Infantry";
@@ -141,7 +141,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РњРµРґРёРє";
+        displayName = "Medic";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
@@ -165,7 +165,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РЁС‚СѓСЂРјРѕРІРёРє";
+        displayName = "Assault";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
@@ -189,7 +189,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РЎРЅР°Р№РїРµСЂ";
+        displayName = "Sniper";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
@@ -213,7 +213,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РџСѓР»РµРјРµС‚С‡РёРє";
+        displayName = "Gunner";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
@@ -231,14 +231,13 @@ class CfgVehicles {
         respawnMagazines[] = {"LIB_63Rnd_762x54","LIB_8Rnd_762x25","LIB_63Rnd_762x54","LIB_8Rnd_762x25"};
 
         backpack = "B_LIB_SOV_RA_MedicalBag";
-
     };
 
     class joschi_ifa3_rus_pt_a : joschi_ifa3_rus_medic {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РџРў РЎС‚СЂРµР»РѕРє";
+        displayName = "PT Assault a";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
@@ -262,7 +261,7 @@ class CfgVehicles {
         author = "j0sch";
         scope = 2;
         scopeCurator = 2;
-        displayName = "РџРў РЎС‚СЂРµР»РѕРє";
+        displayName = "PT Assault b";
         side = 0;
         faction = "joschi_ifa3_rus_fraction";
 
